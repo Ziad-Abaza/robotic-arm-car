@@ -118,15 +118,21 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributions
 
-Contributions and suggestions are welcome! Feel free to fork the repository and submit a pull request.
+- **Ziad Hassan Abaza**  
+  - GitHub: [Ziad Abaza](https://github.com/Ziad-Abaza)  
+  - Email: [zeyad.h.abaza@gmail.com](mailto:zeyad.h.abaza@gmail.com)
+
+- **Omar Algamel**  
+  - GitHub: [Omar Algamel](https://github.com/omar-algamel)  
+  - Email: [omar.algamel@example.com](mailto:omar.algamel@example.com)
 
 ---
 
 ## ✉️ Contact
 
 For any inquiries or feedback, please reach out to:
-- **Email**: omar.algamel@example.com
-- **GitHub**: [Omar Algamel](https://github.com/omar-algamel)
+- **Email**: [zeyad.h.abaza@gmail.com](mailto:zeyad.h.abaza@gmail.com)
+- **GitHub**: [Ziad Abaza](https://github.com/Ziad-Abaza)
 
 ---
 
